@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098041293317",
+    "firebase_url": "https://olx-curso-android-2f98c.firebaseio.com",
+    "project_id": "olx-curso-android-2f98c",
+    "storage_bucket": "olx-curso-android-2f98c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098041293317:android:20c64bc7141d6f06c97a6c",
+        "android_client_info": {
+          "package_name": "williamlopes.cursoandroid.olx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098041293317-jf0mti91drjcjnomdqr6r22j8eor99f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "williamlopes.cursoandroid.olx",
+            "certificate_hash": "b917eecf92fbceebcd349d48ae33826da62c8369"
+          }
+        },
+        {
+          "client_id": "1098041293317-fohmbgp9vulbvba6tv02q7cij22prm6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa_YE9oSbCAEftuDRw-WeQN7PCHstm4Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098041293317-fohmbgp9vulbvba6tv02q7cij22prm6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
